@@ -42,22 +42,23 @@
   <tr>
     <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api?username=igor-fga&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-fga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <img
-        align="left"
+        align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=igor-fga&theme=dark&hide_border=false"
         alt="Github Stats"
       />
