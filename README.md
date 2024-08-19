@@ -80,3 +80,5 @@
 [![Linkedin](https://img.shields.io/badge/-ifgandrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifgandrade/)](https://www.linkedin.com/in/ifgandrade/)
 [![Gmail Badge](https://img.shields.io/badge/-ifgandrade@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ifgandrade@gmail.com)](mailto:ifgandrade@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/igor-fga?label=follow&style=social)](https://github.com/igor-fga)
+
+<!-- https://github.com/iuricode/readme-template/blob/main/badges-shields/readme.md -->
